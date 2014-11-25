@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cf5eb4e-d835-4dff-9d64-377c0b024884" name="Default" comment="" />
+    <list default="true" id="9cf5eb4e-d835-4dff-9d64-377c0b024884" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.MD" afterPath="$PROJECT_DIR$/README.MD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/autoload.php" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="php1.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.php" changelist="9cf5eb4e-d835-4dff-9d64-377c0b024884" time="1416923579354" ignored="false" />
     <file path="/task.php" changelist="9cf5eb4e-d835-4dff-9d64-377c0b024884" time="1416902717499" ignored="false" />
-    <file path="/composer.json" changelist="9cf5eb4e-d835-4dff-9d64-377c0b024884" time="1416912736109" ignored="false" />
+    <file path="/composer.json" changelist="9cf5eb4e-d835-4dff-9d64-377c0b024884" time="1416950937630" ignored="false" />
     <file path="$PROJECT_DIR$/../php2/index.php" changelist="9cf5eb4e-d835-4dff-9d64-377c0b024884" time="1416326024238" ignored="false" />
     <file path="$PROJECT_DIR$/../php2/composer.json" changelist="9cf5eb4e-d835-4dff-9d64-377c0b024884" time="1416321825629" ignored="false" />
     <file path="$PROJECT_DIR$/../php2/src/PasswordGenerator.php" changelist="9cf5eb4e-d835-4dff-9d64-377c0b024884" time="1416854293948" ignored="false" />
@@ -18,7 +24,7 @@
     <file path="/ArrayValidator.php" changelist="9cf5eb4e-d835-4dff-9d64-377c0b024884" time="1416944841568" ignored="false" />
     <file path="/BooleanValidator.php" changelist="9cf5eb4e-d835-4dff-9d64-377c0b024884" time="1416945991078" ignored="false" />
     <file path="/DataValidator.php" changelist="9cf5eb4e-d835-4dff-9d64-377c0b024884" time="1416946864851" ignored="false" />
-    <file path="/Dummy.txt" changelist="9cf5eb4e-d835-4dff-9d64-377c0b024884" time="1416948152072" ignored="false" />
+    <file path="/Dummy.txt" changelist="9cf5eb4e-d835-4dff-9d64-377c0b024884" time="1416949548193" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +44,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="composer.lock" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.lock">
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="2" selection-start="260" selection-end="313" vertical-scroll-proportion="-9.153846">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="1" selection-start="297" selection-end="297" vertical-scroll-proportion="0.321513">
               <folding />
             </state>
           </provider>
@@ -50,10 +68,8 @@
       <file leaf-file-name="StringValidator.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StringValidator.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="65" selection-start="543" selection-end="543" vertical-scroll-proportion="-16.346153">
-              <folding>
-                <element signature="e#6#161#0" expanded="true" />
-              </folding>
+            <state line="28" column="65" selection-start="543" selection-end="543" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -61,7 +77,7 @@
       <file leaf-file-name="DataValidator.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DataValidator.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="85" selection-start="1260" selection-end="1260" vertical-scroll-proportion="-27.384615">
+            <state line="51" column="85" selection-start="1260" selection-end="1260" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -70,25 +86,16 @@
       <file leaf-file-name="Intvalidator.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Intvalidator.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="6" selection-start="452" selection-end="496" vertical-scroll-proportion="-13.0">
+            <state line="25" column="6" selection-start="452" selection-end="496" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.MD" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.MD" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.MD">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="41" selection-start="698" selection-end="698" vertical-scroll-proportion="0.4483945">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tests.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="23" column="42" selection-start="699" selection-end="699" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -97,7 +104,16 @@
       <file leaf-file-name="ArrayValidator.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArrayValidator.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="0" selection-start="1070" selection-end="1224" vertical-scroll-proportion="-19.461538">
+            <state line="2" column="33" selection-start="43" selection-end="43" vertical-scroll-proportion="4.576923">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -107,15 +123,6 @@
         <entry file="file://$PROJECT_DIR$/src/BooleanValidator.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="22" column="43" selection-start="412" selection-end="412" vertical-scroll-proportion="-10.461538">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="autoload.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -149,7 +156,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/class/task.php" />
-        <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/class/class.php" />
         <option value="$PROJECT_DIR$/src/ArrayValidator.php" />
         <option value="$PROJECT_DIR$/src/BooleanValidator.php" />
@@ -158,6 +164,7 @@
         <option value="$PROJECT_DIR$/src/StringValidator.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/README.MD" />
+        <option value="$PROJECT_DIR$/composer.json" />
       </list>
     </option>
   </component>
@@ -194,6 +201,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -222,45 +230,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="composer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,8 +244,8 @@
     <property name="options.lastSelected" value="appearance" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -310,13 +285,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12860192" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12966916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -392,20 +367,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tests.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="1" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="39" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0">
@@ -441,46 +402,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="17" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Intvalidator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="6" selection-start="452" selection-end="496" vertical-scroll-proportion="-13.0">
+        <state line="25" column="6" selection-start="452" selection-end="496" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StringValidator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="65" selection-start="543" selection-end="543" vertical-scroll-proportion="-16.346153">
-          <folding>
-            <element signature="e#6#161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="2" selection-start="260" selection-end="313" vertical-scroll-proportion="-9.153846">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BooleanValidator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="43" selection-start="412" selection-end="412" vertical-scroll-proportion="-10.461538">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayValidator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="0" selection-start="1070" selection-end="1224" vertical-scroll-proportion="-19.461538">
+        <state line="28" column="65" selection-start="543" selection-end="543" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -494,14 +425,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DataValidator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="85" selection-start="1260" selection-end="1260" vertical-scroll-proportion="-27.384615">
+        <state line="51" column="85" selection-start="1260" selection-end="1260" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.MD">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="41" selection-start="698" selection-end="698" vertical-scroll-proportion="0.4483945">
+        <state line="23" column="42" selection-start="699" selection-end="699" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayValidator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="33" selection-start="43" selection-end="43" vertical-scroll-proportion="4.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="48" selection-start="256" selection-end="256" vertical-scroll-proportion="0.24113475">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanValidator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="43" selection-start="412" selection-end="412" vertical-scroll-proportion="-10.461538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="1" selection-start="297" selection-end="297" vertical-scroll-proportion="0.321513">
           <folding />
         </state>
       </provider>

@@ -21,4 +21,4 @@ exemple echo \Panda\Validator\ArrayValidator::keyExists($key, $array);
 Date time
 This lib  check the year , the month and at day
 
- Thanks you for reading and use my lib !!
+ Thanks you for reading and use my lib !!!
